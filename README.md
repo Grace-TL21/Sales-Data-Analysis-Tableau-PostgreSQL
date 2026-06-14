@@ -18,3 +18,8 @@ End-to-end ETL + Tableau dashboard using UCI Online Retail dataset
 
 ## 🛠️ Tools Used
 PostgreSQL | DBeaver | Tableau | SQL
+
+## 📁 Files in this repo
+- `Book1.twb` - Tableau dashboard with 4 visualizations
+- `D_1.sql` - PostgreSQL queries: data cleaning + KPI calculations  
+- `Dashboard.png` - Final dashboard screenshot
